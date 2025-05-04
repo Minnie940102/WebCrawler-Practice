@@ -18,7 +18,7 @@
 ---
 
 ## 圖示
-![螢幕畫面] ([./0504.png](https://innews.com.tw/wp-content/uploads/2023/09/IMG_1314.jpg))
+![螢幕畫面] ([./0504.png]([https://innews.com.tw/wp-content/uploads/2023/09/IMG_1314.jpg](https://raw.githubusercontent.com/Minnie940102/WebCrawler-Practice/refs/heads/main/0504.png)))
 
 ---
 
