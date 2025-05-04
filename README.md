@@ -1,5 +1,4 @@
-# WebCrawler-Practice
-網路爬蟲課程 GitHub 練習
+
 # WebCrawler-Practice
 
 這是網路爬蟲課程的練習專案，作為學習 Git 與 GitHub 的一部分。
